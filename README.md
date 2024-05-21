@@ -2,6 +2,8 @@
 
 The **PumpFun Raydium Buy/Sell Bot** is a specialized tool for automatically buying and selling tokens launched on Raydium. It targets tokens specifically as they go live, making it a highly efficient sniping bot.
 
+![Pump.fun sniper bot](https://github.com/primeoss/pumpfun-bot/blob/main/pumpfun.png "Pumpfun Sniper Bot")
+
 ## Why Choose This Bot?
 
 - **Fast Transactions:** Executes buy and sell orders swiftly as tokens go live.
