@@ -19,5 +19,5 @@ The **PumpFun Raydium Buy/Sell Bot** is a specialized tool for automatically buy
 
 For purchases or further assistance, please reach out through one of the following channels:
 
-- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Telegram**: [solanaapis](https://t.me/solanaapis)
 - **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
